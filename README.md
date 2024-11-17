@@ -12,6 +12,7 @@ Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node
 08. Open new terminal and go to the project root directory
 09. Run `npm install`
 10. Run `npm run dev` to start vite server for Laravel frontend
+11. Run `php artisan storage:link` to link storage folder with public folder
 
 ### Install Vue.js Admin Panel
 01. Go to `backend` folder
